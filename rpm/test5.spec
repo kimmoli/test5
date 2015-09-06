@@ -11,6 +11,7 @@ Group:      Qt/Qt
 License:    LICENSE
 URL:        https://github.com/kimmoli/
 Source0:    %{name}-%{version}.tar.bz2
+BuildArch:  noarch
 
 %description
 Just testing stuff
